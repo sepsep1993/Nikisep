@@ -7,8 +7,6 @@
 ## Project Title
 Split Computing and Early Exiting for Deep Learning
 
-## Applications
-Survey and Research Challenges
 
 ## Introduction
 Recently, split computing (SC)-based approaches have emerged, where the DNN (Deep Neural Network) is divided into a head and a tail model. These models are then processed on the edge server and the mobile device, respectively. This approach aims to reduce both bandwidth and energy consumption. Models are trained using a different strategy termed early exiting (EE). Early exiting involves incorporating several "exits" earlier in the architecture, each of which offers progressively better target precision. Consequently, the trade-off between accuracy and latency can be adjusted based on the circumstances or the requirements of an application.
